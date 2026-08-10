@@ -16,6 +16,12 @@ test("publishing data preserves all 33 live entries in source order", async () =
   assert.equal(publications.length, 33);
   assert.equal(publications[0].title, "MilliVid");
   assert.equal(publications.at(-1).title, "DeepVoxels");
+  assert.ok(publications.every((publication) => publication.title.length > 0));
+  assert.equal(publications[2].title, "Scaling View Synthesis Transformers");
+  assert.equal(
+    publications[9].title,
+    "Controlling diverse robots by inferring Jacobian fields with deep networks",
+  );
 });
 
 test("teaching and member data preserve the complete live sets", async () => {
