@@ -21,7 +21,7 @@ function ResearchParagraph() {
 
 export function MissionSection() {
   return (
-    <section className={styles.mission}>
+    <section className={styles.mission} id="mission">
       <h1>{home.title}</h1>
       <a
         aria-label="Meet the Scene Representation Group"

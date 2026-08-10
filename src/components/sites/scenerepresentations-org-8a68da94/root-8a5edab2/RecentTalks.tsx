@@ -7,7 +7,7 @@ export function RecentTalks() {
   const [title, venue, details] = talk.text.split("\n");
 
   return (
-    <section className={styles.recentTalks}>
+    <section className={styles.recentTalks} id="talks">
       <div className={styles.sectionHeading}>
         <h2>Recent Talks</h2>
         <a

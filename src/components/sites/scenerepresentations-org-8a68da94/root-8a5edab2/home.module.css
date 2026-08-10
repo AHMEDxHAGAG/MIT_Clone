@@ -6,6 +6,10 @@
   grid-template-rows: auto 1fr;
 }
 
+.homeMain > section {
+  border-bottom: 0 !important;
+}
+
 .mission {
   grid-area: mission;
 }
@@ -91,7 +95,13 @@
 }
 
 .recentTalks {
+  border-top: 1px solid var(--srg-border-strong);
   grid-area: talks;
+}
+
+.recentTalks .sectionHeading {
+  margin-top: -6px;
+  padding-bottom: 6px;
 }
 
 .talkCard {
@@ -111,14 +121,16 @@
 }
 
 .talkCaption {
+  gap: 4px !important;
   justify-content: center;
   min-width: 0;
+  padding: 0 4px !important;
 }
 
 .talkCaption h3 {
   font-size: 1rem !important;
   line-height: 1.375;
-  padding: 0 !important;
+  padding: 0 0 4px !important;
 }
 
 .talkCaption :global(.srg-label) {
@@ -138,5 +150,14 @@
 
   .recentPublications {
     border-left: 0;
+  }
+
+  .mission,
+  .recentPublications {
+    padding-bottom: calc(var(--srg-space-pad) + 1px) !important;
+  }
+
+  .recentTalks .sectionHeading {
+    margin-top: -7px;
   }
 }

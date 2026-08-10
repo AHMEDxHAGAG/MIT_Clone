@@ -27,7 +27,7 @@ const recentPublications = (publicationsData as Publication[])
 
 export function RecentPublications() {
   return (
-    <section className={styles.recentPublications}>
+    <section className={styles.recentPublications} id="publications">
       <div className={styles.sectionHeading}>
         <h2>Recent Publications</h2>
         <a className={`srg-arrow-link ${styles.viewAll}`} href="/publications/">view all</a>
