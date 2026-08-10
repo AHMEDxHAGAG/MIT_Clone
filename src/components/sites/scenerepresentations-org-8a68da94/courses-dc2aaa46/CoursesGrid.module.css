@@ -1,0 +1,9 @@
+.section {
+  --srg-min-column: 17.75rem;
+
+  min-height: 100%;
+}
+
+.term {
+  text-transform: capitalize;
+}
