@@ -1,9 +1,22 @@
-export default function Home() {
+import type { Metadata } from "next";
+import { MissionSection } from "@/components/sites/scenerepresentations-org-8a68da94/root-8a5edab2/MissionSection";
+import { RecentPublications } from "@/components/sites/scenerepresentations-org-8a68da94/root-8a5edab2/RecentPublications";
+import { RecentTalks } from "@/components/sites/scenerepresentations-org-8a68da94/root-8a5edab2/RecentTalks";
+import styles from "@/components/sites/scenerepresentations-org-8a68da94/root-8a5edab2/home.module.css";
+import { SiteShell } from "@/components/sites/scenerepresentations-org-8a68da94/shared/SiteShell";
+
+export const metadata: Metadata = {
+  title: "MIT CSAIL – Scene Representation Group",
+};
+
+export default function HomePage() {
   return (
-    <main className="flex min-h-screen items-center justify-center">
-      <p className="text-muted-foreground">
-        Clone target not yet built. Run <code className="font-mono text-foreground">/clone-website</code> to start.
-      </p>
-    </main>
+    <SiteShell>
+      <main className={`srg-main ${styles.homeMain}`} id="main-content">
+        <MissionSection />
+        <RecentPublications />
+        <RecentTalks />
+      </main>
+    </SiteShell>
   );
 }

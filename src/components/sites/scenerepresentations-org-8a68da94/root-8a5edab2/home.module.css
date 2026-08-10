@@ -1,0 +1,142 @@
+.homeMain {
+  grid-template-areas:
+    "mission publications"
+    "talks publications";
+  grid-template-columns: 48.4210526% 51.5789474%;
+  grid-template-rows: auto 1fr;
+}
+
+.mission {
+  grid-area: mission;
+}
+
+.mission h1 {
+  padding-bottom: 0;
+}
+
+.members {
+  display: block;
+  margin-block: calc(var(--srg-space-tiny) + 1.625rem) calc(var(--srg-space) + var(--srg-space-tiny));
+  width: fit-content;
+}
+
+.memberRow {
+  display: flex;
+  flex-flow: row-reverse wrap-reverse;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+
+.memberRow + .memberRow {
+  margin-top: var(--srg-space-tiny);
+}
+
+.memberPortrait {
+  border: 1pt solid var(--srg-bg);
+  border-radius: 50%;
+  height: 48px;
+  margin-right: -10px;
+  margin-top: -10px;
+  object-fit: cover;
+  position: relative;
+  transition: border-color 333ms ease-out, box-shadow 333ms ease-out;
+  width: 48px;
+}
+
+.members:hover .memberPortrait {
+  border-color: var(--srg-highlight);
+  box-shadow: 0 0 4px var(--srg-highlight);
+  transition: border-color 100ms ease-out, box-shadow 100ms ease-out;
+}
+
+.lead {
+  display: block;
+  font-weight: 600;
+}
+
+.mission p {
+  margin-top: var(--srg-space-sm);
+}
+
+.researchLink,
+.viewAll {
+  border-bottom: 1px solid var(--srg-highlight);
+}
+
+.recentPublications {
+  border-left: 1px solid var(--srg-border-strong);
+  grid-area: publications;
+}
+
+.sectionHeading {
+  align-items: baseline;
+  display: flex;
+  gap: var(--srg-space);
+  justify-content: space-between;
+  margin-bottom: var(--srg-space-sm);
+}
+
+.sectionHeading h2 {
+  line-height: 1.375;
+  padding: 0;
+}
+
+.viewAll {
+  flex-shrink: 0;
+  margin-left: auto;
+}
+
+.publicationGrid {
+  align-items: stretch;
+}
+
+.recentTalks {
+  grid-area: talks;
+}
+
+.talkCard {
+  flex-flow: row;
+  height: auto;
+}
+
+.talkMedia {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.talkImage {
+  aspect-ratio: 4 / 3 !important;
+  height: auto;
+  width: 100%;
+}
+
+.talkCaption {
+  justify-content: center;
+  min-width: 0;
+}
+
+.talkCaption h3 {
+  font-size: 1rem !important;
+  line-height: 1.375;
+  padding: 0 !important;
+}
+
+.talkCaption :global(.srg-label) {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 967px) {
+  .homeMain {
+    grid-template-areas:
+      "mission"
+      "publications"
+      "talks";
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto;
+  }
+
+  .recentPublications {
+    border-left: 0;
+  }
+}
