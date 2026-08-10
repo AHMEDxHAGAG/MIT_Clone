@@ -1,0 +1,563 @@
+[
+  {
+    "href": "https://scenerepresentations.org/publications/millivid/",
+    "date": "June 2026",
+    "dateTime": "2026-06-08",
+    "title": "MilliVid",
+    "subtitle": "Hierarchical Latents for Long-Range Consistency in Video Generation",
+    "authors": "Chandratreya, Charatan",
+    "authorsTitle": "Ishaan Preetam Chandratreya, David Charatan, Basile Van Hoorick, Sergey Zakharov, Vitor Guizilini, Phillip Isola, Vincent Sitzmann",
+    "award": "",
+    "venue": "arXiv",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/millivid/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/millivid/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/millivid/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/vera/",
+    "date": "May 2026",
+    "dateTime": "2026-05-27",
+    "title": "VERA",
+    "subtitle": "Turning Video Models into Generalist Robot Policies",
+    "authors": "Li, Kim, Bai",
+    "authorsTitle": "Sizhe Lester Li, Evan Kim, Xingjian Bai, Tong Zhao, Tao Pang, Max Simchowitz, Vincent Sitzmann",
+    "award": "",
+    "venue": "arXiv",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/vera/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/vera/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/vera/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/svsm/",
+    "date": "Feb. 2026",
+    "dateTime": "2026-02-24",
+    "title": "",
+    "subtitle": "",
+    "authors": "Kim, Ryu",
+    "authorsTitle": "Evan Kim, Hyunwoo Ryu, Thomas W. Mitchel, Vincent Sitzmann",
+    "award": "",
+    "venue": "CVPR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.KwApKzuX_Z23xdHv.jpg",
+    "media": {
+      "kind": "image",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.KwApKzuX_Z1jBRTi.avif",
+      "alt": "Thumbnail for publication \"Scaling View Synthesis Transformers\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/large-video-planner/",
+    "date": "Dec. 2025",
+    "dateTime": "2025-12-20",
+    "title": "",
+    "subtitle": "",
+    "authors": "Chen",
+    "authorsTitle": "Boyuan Chen, Tianyuan Zhang, Haoran Geng, Kiwhan Song, William T. Freeman, Jitendra Malik, Russ Tedrake, Vincent Sitzmann, Yilun Du",
+    "award": "",
+    "venue": "arXiv",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/large-video-planner/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/large-video-planner/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/large-video-planner/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/gvs/",
+    "date": "Oct. 2025",
+    "dateTime": "2025-10-24",
+    "title": "",
+    "subtitle": "",
+    "authors": "Song",
+    "authorsTitle": "Chonghyuk Song, Michal Stary, Boyuan Chen, George Kopanas, Vincent Sitzmann",
+    "award": "",
+    "venue": "ICLR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/gvs/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/gvs/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/gvs/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/xfactor-nvs/",
+    "date": "Oct. 2025",
+    "dateTime": "2025-10-15",
+    "title": "",
+    "subtitle": "",
+    "authors": "Mitchel, Ryu",
+    "authorsTitle": "Thomas W. Mitchel, Hyunwoo Ryu, Vincent Sitzmann",
+    "award": "✨",
+    "venue": "ICLR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/xfactor-nvs/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/xfactor-nvs/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/xfactor-nvs/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/diffusion-underfitting/",
+    "date": "Oct. 2025",
+    "dateTime": "2025-10-01",
+    "title": "",
+    "subtitle": "",
+    "authors": "Song",
+    "authorsTitle": "Kiwhan Song, Jaeyeon Kim, Sitan Chen, Yilun Du, Sham Kakade, Vincent Sitzmann",
+    "award": "",
+    "venue": "arXiv",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.DGoEYvyG_TbBQH.jpg",
+    "media": {
+      "kind": "image",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.DGoEYvyG_Z1P6B01.avif",
+      "alt": "Thumbnail for publication \"Selective Underfitting in Diffusion Models\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/diffusion-locality/",
+    "date": "Sept. 2025",
+    "dateTime": "2025-09-01",
+    "title": "",
+    "subtitle": "",
+    "authors": "Lukoianov",
+    "authorsTitle": "Artem Lukoianov, Chenyang Yuan, Justin Solomon, Vincent Sitzmann",
+    "award": "✨",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.Buw_GTGN_Z20h3UW.jpg",
+    "media": {
+      "kind": "image",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.Buw_GTGN_2u6Xbi.avif",
+      "alt": "Thumbnail for publication \"Locality in Image Diffusion Models Emerges from Data Statistics\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/meschers/",
+    "date": "July 2025",
+    "dateTime": "2025-07-27",
+    "title": "Meschers",
+    "subtitle": "Geometry Processing of Impossible Objects",
+    "authors": "Dodik",
+    "authorsTitle": "Ana Dodik, Isabella Yu, Kartik Chandra, Jonathan Ragan-Kelley, Joshua Tenenbaum, Vincent Sitzmann, Justin Solomon",
+    "award": "",
+    "venue": "SIGGRAPH",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/meschers/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/meschers/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/meschers/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/jacobian-fields/",
+    "date": "June 2025",
+    "dateTime": "2025-06-26",
+    "title": "",
+    "subtitle": "",
+    "authors": "Li",
+    "authorsTitle": "Sizhe Li, Annan Zhang, Boyuan Chen, Hanna Matusik, Chao Liu, Daniela Rus, Vincent Sitzmann",
+    "award": "✨",
+    "venue": "Nature",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/jacobian-fields/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/jacobian-fields/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/jacobian-fields/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/history-guidance/",
+    "date": "Feb. 2025",
+    "dateTime": "2025-02-10",
+    "title": "",
+    "subtitle": "",
+    "authors": "Song, Chen",
+    "authorsTitle": "Kiwhan Song, Boyuan Chen, Max Simchowitz, Yilun Du, Russ Tedrake, Vincent Sitzmann",
+    "award": "",
+    "venue": "ICML",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/history-guidance/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/history-guidance/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/history-guidance/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/diffusion-forcing/",
+    "date": "July 2024",
+    "dateTime": "2024-07-02",
+    "title": "Diffusion Forcing",
+    "subtitle": "Next-token Prediction Meets Full-Sequence Diffusion",
+    "authors": "Chen",
+    "authorsTitle": "Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/diffusion-forcing/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/diffusion-forcing/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/diffusion-forcing/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/niso/",
+    "date": "June 2024",
+    "dateTime": "2024-06-15",
+    "title": "Neural Isometries",
+    "subtitle": "Taming Transformations for Equivariant ML",
+    "authors": "Mitchel",
+    "authorsTitle": "Tommy Mitchel, Mike Taylor, Vincent Sitzmann",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/teaser.CK4p5Ew-_Z1jIkcM.jpg",
+    "media": {
+      "kind": "image",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/teaser.CK4p5Ew-_alnLR.avif",
+      "alt": "Thumbnail for publication \"Neural Isometries: Taming Transformations for Equivariant ML\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/reparam-ddim/",
+    "date": "May 2024",
+    "dateTime": "2024-05-01",
+    "title": "",
+    "subtitle": "",
+    "authors": "Lukoianov",
+    "authorsTitle": "Artem Lukoianov, Haitz Sáez de Ocáriz Borde, Kristjan Greenewald, Vitor Campagnolo Guizilini, Timur Bagautdinov, Vincent Sitzmann, Justin Solomon",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/reparam-ddim/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/reparam-ddim/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/reparam-ddim/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/flowmap/",
+    "date": "April 2024",
+    "dateTime": "2024-04-23",
+    "title": "FlowMap",
+    "subtitle": "High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent",
+    "authors": "Smith, Charatan",
+    "authorsTitle": "Cameron Smith, David Charatan, Ayush Tewari, Vincent Sitzmann",
+    "award": "",
+    "venue": "3DV",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/flowmap/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/flowmap/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/flowmap/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/pixelsplat/",
+    "date": "Dec. 2023",
+    "dateTime": "2023-12-20",
+    "title": "pixelSplat",
+    "subtitle": "3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+    "authors": "Charatan",
+    "authorsTitle": "David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann",
+    "award": "✨",
+    "venue": "CVPR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/pixelsplat/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/pixelsplat/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/pixelsplat/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/vbc/",
+    "date": "Oct. 2023",
+    "dateTime": "2023-10-01",
+    "title": "",
+    "subtitle": "",
+    "authors": "Dodik",
+    "authorsTitle": "Ana Dodik, Oded Stein, Vincent Sitzmann, Justin Solomon",
+    "award": "✨",
+    "venue": "SIGGRAPH Asia",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/color_corrected.CIHy8xXU_Z1gsEzz.jpg",
+    "media": {
+      "kind": "image",
+      "src": "",
+      "alt": "Thumbnail for publication \"Variational Barycentric Coordinates\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/diffusion-with-forward/",
+    "date": "June 2023",
+    "dateTime": "2023-06-20",
+    "title": "Diffusion with Forward Models",
+    "subtitle": "Solving Stochastic Inverse Problems Without Direct Supervision",
+    "authors": "Tewari, Yin",
+    "authorsTitle": "Ayush Tewari, Tianwei Yin, George Cazenavette, Semon Rezchikov, Joshua B. Tenenbaum, Frédo Durand, William T. Freeman, Vincent Sitzmann",
+    "award": "✨",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/diffusion-with-forward/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/diffusion-with-forward/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/diffusion-with-forward/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/flowcam/",
+    "date": "May 2023",
+    "dateTime": "2023-05-31",
+    "title": "FlowCam",
+    "subtitle": "Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow",
+    "authors": "Smith",
+    "authorsTitle": "Cameron Smith, Yilun Du, Ayush Tewari, Vincent Sitzmann",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/flowcam/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/flowcam/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/flowcam/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/stereo-view-synthesis/",
+    "date": "April 2023",
+    "dateTime": "2023-04-17",
+    "title": "",
+    "subtitle": "",
+    "authors": "Du",
+    "authorsTitle": "Yilun Du, Cameron Smith, Ayush Tewari, Vincent Sitzmann",
+    "award": "",
+    "venue": "CVPR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/stereo-view-synthesis/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/stereo-view-synthesis/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/stereo-view-synthesis/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/see3d/",
+    "date": "Jan. 2023",
+    "dateTime": "2023-01-02",
+    "title": "Neural Groundplans",
+    "subtitle": "Persistent Neural Scene Representations from a Single Image",
+    "authors": "Sharma",
+    "authorsTitle": "Prafull Sharma, Ayush Tewari, Yilun Du, Sergey Zakharov, Rares Ambrus, Adrien Gaidon, William T. Freeman, Frédo Durand, Joshua B. Tenenbaum, Vincent Sitzmann",
+    "award": "",
+    "venue": "ICLR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/see3d/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/see3d/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/see3d/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/feature-fields/",
+    "date": "May 2022",
+    "dateTime": "2022-05-31",
+    "title": "",
+    "subtitle": "",
+    "authors": "Kobayashi",
+    "authorsTitle": "Sosuke Kobayashi, Eiichi Matsumoto, Vincent Sitzmann",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/feature-fields/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/feature-fields/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/feature-fields/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/colf/",
+    "date": "May 2022",
+    "dateTime": "2022-05-08",
+    "title": "",
+    "subtitle": "",
+    "authors": "Smith",
+    "authorsTitle": "Cameron Smith, Hong-Xing Yu, Sergey Zakharov, Frédo Durand, Joshua B. Tenenbaum, Jiajun Wu, Vincent Sitzmann",
+    "award": "",
+    "venue": "TMLR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.B9Mqke3f_Z1Yqot4.jpg",
+    "media": {
+      "kind": "image",
+      "src": "",
+      "alt": "Thumbnail for publication \"Unsupervised Discovery and Composition of Object Light Fields\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/ndfs/",
+    "date": "Dec. 2021",
+    "dateTime": "2021-12-09",
+    "title": "Neural Descriptor Fields",
+    "subtitle": "SE(3)-Equivariant Object Representations for Manipulation",
+    "authors": "Simeonov, Du",
+    "authorsTitle": "Anthony Simeonov, Yilun Du, Andrea Tagliasacchi, Alberto Rodriguez, Pulkit Agrawal, Vincent Sitzmann",
+    "award": "",
+    "venue": "ICRA",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/ndfs/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/ndfs/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/ndfs/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/neural-field-review/",
+    "date": "Nov. 2021",
+    "dateTime": "2021-11-22",
+    "title": "",
+    "subtitle": "",
+    "authors": "Xie",
+    "authorsTitle": "Yiheng Xie, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan, Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, Srinath Sridhar",
+    "award": "",
+    "venue": "Eurographics STAR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.DlA4hdoO_qo1TV.svg",
+    "media": {
+      "kind": "image",
+      "src": "",
+      "alt": "Thumbnail for publication \"Neural Fields in Visual Computing and Beyond\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/gem/",
+    "date": "July 2021",
+    "dateTime": "2021-07-08",
+    "title": "",
+    "subtitle": "",
+    "authors": "Du",
+    "authorsTitle": "Yilun Du, Katherine M. Collins, Joshua B. Tenenbaum, Vincent Sitzmann",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.ViVLaBwm_Z2lUrBv.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/gem/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/gem/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/visuomotor-control/",
+    "date": "July 2021",
+    "dateTime": "2021-07-08",
+    "title": "",
+    "subtitle": "",
+    "authors": "Li, Li",
+    "authorsTitle": "Yunzhu Li, Shuang Li, Vincent Sitzmann, Pulkit Agrawal, Antonio Torralba",
+    "award": "✨",
+    "venue": "CoRL",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.C-AdVK9i_CzVKY.jpg",
+    "media": {
+      "kind": "image",
+      "src": "",
+      "alt": "Thumbnail for publication \"3D Neural Scene Representations for Visuomotor Control\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/deep-medial-fields/",
+    "date": "June 2021",
+    "dateTime": "2021-06-07",
+    "title": "",
+    "subtitle": "",
+    "authors": "Rebain",
+    "authorsTitle": "Daniel Rebain, Ke Li, Vincent Sitzmann, Soroosh Yazdani, Kwang Moo Yi, Andrea Tagliasacchi",
+    "award": "",
+    "venue": "arXiv",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/_astro/thumbnail.D_P8zNpx_Z1FjGOt.jpg",
+    "media": {
+      "kind": "image",
+      "src": "",
+      "alt": "Thumbnail for publication \"Deep Medial Fields\""
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/lfns/",
+    "date": "June 2021",
+    "dateTime": "2021-06-04",
+    "title": "Light Field Networks",
+    "subtitle": "Neural Scene Representations with Single-Evaluation Rendering",
+    "authors": "Sitzmann, Rezchikov",
+    "authorsTitle": "Vincent Sitzmann, Semon Rezchikov, William T. Freeman, Joshua B. Tenenbaum, Frédo Durand",
+    "award": "✨",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/lfns/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/lfns/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/lfns/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/metasdf/",
+    "date": "June 2020",
+    "dateTime": "2020-06-17",
+    "title": "MetaSDF",
+    "subtitle": "Meta-learning Signed Distance Functions",
+    "authors": "Sitzmann",
+    "authorsTitle": "Vincent Sitzmann, Eric Ryan Chan, Richard Tucker, Noah Snavely, Gordon Wetzstein",
+    "award": "",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/metasdf/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/metasdf/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/metasdf/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/siren/",
+    "date": "June 2020",
+    "dateTime": "2020-06-17",
+    "title": "",
+    "subtitle": "",
+    "authors": "Sitzmann, Martel",
+    "authorsTitle": "Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein",
+    "award": "✨",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/siren/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/siren/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/siren/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/srns/",
+    "date": "June 2019",
+    "dateTime": "2019-06-04",
+    "title": "Scene Representation Networks",
+    "subtitle": "Continuous 3D-Structure-Aware Neural Scene Representations",
+    "authors": "Sitzmann",
+    "authorsTitle": "Vincent Sitzmann, Michael Zollhoefer, Gordon Wetzstein",
+    "award": "✨",
+    "venue": "NeurIPS",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/srns/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/srns/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/srns/thumbnail.jpg"
+    }
+  },
+  {
+    "href": "https://scenerepresentations.org/publications/deepvoxels/",
+    "date": "Dec. 2018",
+    "dateTime": "2018-12-03",
+    "title": "DeepVoxels",
+    "subtitle": "Learning Persistent 3D Feature Embeddings",
+    "authors": "Sitzmann",
+    "authorsTitle": "Vincent Sitzmann, Justus Thies, Heide Felix, Matthias Niessner, Gordon Wetzstein, Michael Zollhoefer",
+    "award": "✨",
+    "venue": "CVPR",
+    "listThumbnail": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/deepvoxels/thumbnail.jpg",
+    "media": {
+      "kind": "video",
+      "src": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/deepvoxels/preview.webm",
+      "poster": "/sites/scenerepresentations-org-8a68da94/publications-0078f9b7/publications/deepvoxels/thumbnail.jpg"
+    }
+  }
+]

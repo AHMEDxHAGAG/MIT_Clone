@@ -1,0 +1,17 @@
+	<svg viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<style>
+			#favicon { fill: #131920; }
+			@media (prefers-color-scheme: dark) {
+				#favicon { fill: #E6E6E6; }
+			}
+		</style>
+		<g id="favicon">
+			<polygon points="25 89.5 2.643 89.5 96.3588538 111.843608"></polygon>
+			<polygon points="28.184 69.5 8 69.5 94.892 109.0656"></polygon>
+			<polygon points="35.275 46.5 15.412 46.5 92.4353891 105.083903"></polygon>
+			<polygon points="92 24 33.184 24 101 112"></polygon>
+			<polygon points="113.401 44.5 103.5 44.5 102.5 104"></polygon>
+			<polygon points="124.254 66.5 115.411 66.5 103.47 108.105"></polygon>
+			<polygon points="127.078 86.5 119.33 86.5 104.695 110.936"></polygon>
+		</g>
+	</svg>

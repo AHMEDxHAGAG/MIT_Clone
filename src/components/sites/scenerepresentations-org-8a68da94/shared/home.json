@@ -1,0 +1,16 @@
+{
+  "title": "Scene Representation Group",
+  "paragraphs": [
+    "Our goal is to build AI systems that autonomously learn to understand and interact with the physical world. We achieve this by creating agents that build internal world models, allowing them to simulate future events and predict the consequences of their actions.",
+    "As humans, we constantly reconstruct a mental representation of our surroundings from sensory input—capturing geometry, materials, mechanics, and dynamical processes. This allows us to navigate, plan, and act effectively. Humans acquire this skill with minimal supervision, learning primarily through self-play and observation.",
+    "We aim to endow machines with these same computational capabilities. How can agents learn intuitive physics—how objects move and interact—or the fact that our world is 3D, solely through interaction? How can they acquire new concepts from a single demonstration? What intrinsic motivation drives exploration? To answer these questions, our research develops methods across representation learning, generative modeling, and planning."
+  ],
+  "talks": [
+    {
+      "href": "https://scenerepresentations.org/talks/2025-10-09-toronto-vision-group",
+      "text": "Modeling the world (and yourself) from vision\nToronto's Vision Group Lecture Series\nThu, Oct. 9 2025 • Vincent Sitzmann",
+      "img": "/sites/scenerepresentations-org-8a68da94/root-8a5edab2/assets/preloaded/B3digzhanUY-hqdefault.jpg",
+      "alt": "Image could not be loaded"
+    }
+  ]
+}

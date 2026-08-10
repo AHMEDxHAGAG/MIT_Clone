@@ -1,20 +1,17 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import "@/components/sites/scenerepresentations-org-8a68da94/shared/site.css";
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: {
+    default: "MIT CSAIL – Scene Representation Group",
+    template: "%s – Scene Representation Group",
+  },
+  description: "MIT CSAIL Scene Representation Group",
+  icons: {
+    icon: "/sites/scenerepresentations-org-8a68da94/shared/favicon-dark-32.png",
+    apple: "/sites/scenerepresentations-org-8a68da94/shared/apple-touch-icon-180.png",
+  },
 };
 
 export default function RootLayout({
@@ -23,11 +20,16 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html data-theme="dark" lang="en" suppressHydrationWarning>
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var saved=localStorage.getItem("theme");document.documentElement.dataset.theme=saved||(matchMedia("(prefers-color-scheme: light)").matches?"light":"dark")}catch(_){}})()`,
+          }}
+          id="srg-theme-init"
+        />
+      </head>
+      <body>{children}</body>
     </html>
   );
 }

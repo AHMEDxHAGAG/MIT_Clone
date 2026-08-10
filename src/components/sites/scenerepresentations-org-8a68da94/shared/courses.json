@@ -1,0 +1,62 @@
+[
+  {
+    "href": "https://www.scenerepresentations.org/courses/2026/spring/advances-in-cv/",
+    "title": "Advances in Computer Vision",
+    "external": true,
+    "term": "spring 2026",
+    "identifier": "6.8300",
+    "image": "/sites/scenerepresentations-org-8a68da94/courses-dc2aaa46/_astro/thumbnail.a6OMR3S7_13MB44.avif",
+    "width": 366,
+    "height": 183
+  },
+  {
+    "href": "/courses/2025/spring/advances-in-cv/",
+    "title": "Advances in Computer Vision",
+    "external": true,
+    "term": "spring 2025",
+    "identifier": "6.8300",
+    "image": "/sites/scenerepresentations-org-8a68da94/courses-dc2aaa46/_astro/thumbnail.a6OMR3S7_Z1RFIhi.avif",
+    "width": 366,
+    "height": 183
+  },
+  {
+    "href": "https://advances-in-vision.github.io/",
+    "title": "Advances in Computer Vision",
+    "external": true,
+    "term": "spring 2024",
+    "identifier": "6.8300/1",
+    "image": "/sites/scenerepresentations-org-8a68da94/courses-dc2aaa46/_astro/thumbnail.D4pik0aJ_cdxQK.avif",
+    "width": 366,
+    "height": 73
+  },
+  {
+    "href": "https://scenerepresentations.org/courses/2023/fall/inverse-graphics",
+    "title": "Machine Learning for Inverse Graphics",
+    "external": false,
+    "term": "fall 2023",
+    "identifier": "6.S980",
+    "image": "/sites/scenerepresentations-org-8a68da94/courses-dc2aaa46/_astro/thumbnail.D_8Fk3v4_2akwuw.avif",
+    "width": 366,
+    "height": 183
+  },
+  {
+    "href": "http://6.869.csail.mit.edu/sp23/",
+    "title": "Advances in Computer Vision",
+    "external": true,
+    "term": "spring 2023",
+    "identifier": "6.8300/1",
+    "image": "/sites/scenerepresentations-org-8a68da94/courses-dc2aaa46/_astro/thumbnail.D4pik0aJ_vSNJo.avif",
+    "width": 366,
+    "height": 73
+  },
+  {
+    "href": "https://scenerepresentations.org/courses/2022/fall/inverse-graphics",
+    "title": "Machine Learning for Inverse Graphics",
+    "external": false,
+    "term": "fall 2022",
+    "identifier": "6.S980",
+    "image": "/sites/scenerepresentations-org-8a68da94/courses-dc2aaa46/_astro/thumbnail.D_8Fk3v4_ZL8MPP.avif",
+    "width": 366,
+    "height": 183
+  }
+]
